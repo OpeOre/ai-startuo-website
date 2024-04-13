@@ -1,1 +1,1 @@
-# ai-startuo-website
+# ai-startup-website
